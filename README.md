@@ -1,3 +1,3 @@
-# SP-Base
+# SPBase
 
 A description of this package.
