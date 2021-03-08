@@ -1,6 +1,6 @@
 import UIKit
 
-struct BaseTheme {
+public struct BaseTheme {
     let baseColor = UIColor.white
     let textColor = UIColor.black
     let highlightColor = UIColor.blue
